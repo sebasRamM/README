@@ -26,7 +26,6 @@
 
 <p align="center">
 
-**Tecnologias**:
 
 <br>   
     
